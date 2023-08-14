@@ -1,0 +1,51 @@
+body{    
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./image3.jpg);
+    height:600px;
+    width: 1340px;
+    font-size: 60px;
+    text-indent: 25%;
+    color: black;  
+}
+.stopwatch{
+    padding: 40px 0;
+    font-size: 50px;
+    justify-content: center;
+    text-indent: 24%;
+   
+ 
+}
+.buttons{
+    justify-content: center;
+    cursor: pointer;
+    text-indent: 30%;
+
+}
+
+.buttons img {
+    margin-right: 60px;
+    width: 60px;
+    height: 60px; 
+   
+}
+.lp{
+    font-size: medium ;
+    justify-content: center;
+    height: 40px;
+    width: 600px;
+    font-size: 25px;
+    text-indent: 220px;
+    color: #C9A9A6;
+    
+}
+.container{
+    background-color:black; 
+    width: 500px;
+    margin-right: 520px;
+    margin-left: 314px;
+
+}
+#lapContainer{
+    font-size: 40px;
+    text-indent: 420px;
+}
+
